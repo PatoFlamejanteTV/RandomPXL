@@ -1,0 +1,5 @@
+# Mark all files as vendored (excluded from Linguist analysis) by default
+* linguist-vendored
+
+# Explicitly include files in the scripts/ directory for Linguist analysis
+scripts/* -linguist-vendored
