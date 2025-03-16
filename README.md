@@ -1,2 +1,0 @@
-# RandomPXL
-catacombs of minecraft
